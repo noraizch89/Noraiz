@@ -1,0 +1,11 @@
+{
+  "name": "smartpay-frontend",
+  "version": "1.0.0",
+  "description": "SmartPay Frontend",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
